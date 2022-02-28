@@ -1,0 +1,6 @@
+__pycache__
+env
+env_win
+dist
+build
+WalletPy.egg-info
