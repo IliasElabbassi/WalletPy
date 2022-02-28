@@ -4,3 +4,4 @@ env_win
 dist
 build
 WalletPy.egg-info
+build.bat
