@@ -5,3 +5,4 @@ dist
 build
 WalletPy.egg-info
 build.bat
+upload.bat
